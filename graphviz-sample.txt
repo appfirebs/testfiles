@@ -1,6 +1,6 @@
 digraph {
-a -> b;
-    b -> c;
-    c -> d;
-    d -> a;
+FIRST_NODE -> BBB;
+    BBB -> CCC;
+    CCC -> DDD;
+    DDD -> LAST_NODE;
  }
