@@ -20,3 +20,21 @@ content starts at 4-columns in.
 >
 > They can span multiple paragraphs,
 > if you like.
+
+# Title
+
+Some text.
+
+~~~mermaid
+graph TB
+A --> B
+B --> C
+~~~
+
+Some other text.
+
+~~~mermaid
+graph TB
+D --> E
+E --> F
+~~~
