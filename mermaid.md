@@ -19,7 +19,16 @@ sequenceDiagram
     A->>J: Hello John, how are you?
     J->>A: Great!
 ~~~    
-    
+After seq diag
+
+```mermaid
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
+
 ---
 __Advertisement :)__
 
